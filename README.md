@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhangi-srivastav
-- 👀 I’m interested in coding in JAVA, Data Analysis (Python and R language with Numpy, pandas) 
+- 👀 I’m interested in coding in Python, JAVA, Data Analysis (Python and R language with Numpy, pandas) 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Web Development and Data Analysis project.
 - 📫 How to reach me : via github or shubhangisrivas.22@gmail.com
